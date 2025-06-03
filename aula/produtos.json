@@ -10,5 +10,21 @@
     {
         "nome": "moto",
         "preco": 9999.0
+    },
+    {
+        "nome": "chimarrão",
+        "preco": 9.99
+    },
+    {
+        "nome": "cadeira",
+        "preco": 79.0
+    },
+    {
+        "nome": "celular",
+        "preco": 999.0
+    },
+    {
+        "nome": "geladeira",
+        "preco": 4999.0
     }
 ]
