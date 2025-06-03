@@ -6,5 +6,9 @@
     {
         "nome": "produto 5",
         "preco": 588.0
+    },
+    {
+        "nome": "moto",
+        "preco": 9999.0
     }
 ]
